@@ -39,3 +39,4 @@ function setDisplayVaules(red, green, blue) {
 	greenVal.innerText = green;
 	blueVal.innerText = blue;
 }
+
